@@ -14,4 +14,4 @@ i need to return some videotapes, because it all will crash and burn in the end 
 <br />
 <p align="right"><a href="https://www.hitalick.de" target="_blank">hitalick</a></p>
 <br />
-if i get locked up i wont finish the sent . . .
+<p align"right"><a href="https://genius.com/14742826" target="_blank">if i get locked up i wont finish the sent . . .</a></p>

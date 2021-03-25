@@ -13,4 +13,3 @@ i need to return some videotapes, because it all will crash and burn in the end 
 <!-- <p>&nbsp;</p> --!>
 <br />
 <p align="left">if i get locked up i wont finish the sent . . .<p align="right">yeah right</p>
-<p align="right"><a href="mailto:jonas@hitalick.de">@</a></p>

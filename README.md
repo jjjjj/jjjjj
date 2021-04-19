@@ -15,4 +15,4 @@ i need to return some videotapes, because it all will crash and burn in the end 
 <div align"left" >
     <p>The things you own end up owning you.</p>
     <p>We're the middle children of history, man. No purpose or place. We have no Great War. No Great Depression. Our great war is a spiritual war. Our great depression is our lives. We've all been raised on television to believe that one day we'd all be millionaires, and movie gods, and rock stars, but we won't. We're slowly learning that fact. And we're very, very pissed off.</p>
-</div
+</div>

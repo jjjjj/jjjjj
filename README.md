@@ -12,3 +12,5 @@ i need to return some videotapes, because it all will crash and burn in the end 
 <!-- <p>&nbsp;</p> --!>
 <br />
     <p align="left" >I'm half good at a shit ton of things.</p>
+    <br />
+    <p align="left" >trouble realm</p>

@@ -12,6 +12,5 @@ i need to return some videotapes, because it all will crash and burn in the end 
 <!-- <p>&nbsp;</p> --!>
 <br />
     <p align="left" >I'm half good at a shit ton of things.</p>
-    <p align="left" >you see me when I choose to appear.</p>
     <br />
     <p align="left" ><a href="https://jonashuber.co" target="_blank">trouble realm</a></p>
